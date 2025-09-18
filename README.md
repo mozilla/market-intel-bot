@@ -1,1 +1,1 @@
-# market-intel-gpt
+# market-intel-bot
